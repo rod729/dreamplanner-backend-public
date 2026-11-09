@@ -1,0 +1,7 @@
+{
+  "name": "dreamplanner-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Netlify relay: DreamPlanner design PDF + lead -> HighLevel",
+  "engines": { "node": ">=18" }
+}
